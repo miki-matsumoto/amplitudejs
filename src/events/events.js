@@ -13,7 +13,7 @@ import AmplitudeHandlers from './handlers.js';
 | These methods are called when we need to bind events to certain elements.
 |
 | METHODS:
-| 	initializeEvents()
+|	initializeEvents()
 |	bindPlay()
 |	bindPause()
 |	bindPlayPause()
